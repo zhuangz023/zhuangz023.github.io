@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Zi Zhuang, a student working in the area of astrophysics. I am a PhD student in The Chinese University of Hong Kong (CUHK). I am interested in radio astronomy, star formation as well as ISM. 
+Hi! I am Zi Zhuang, a PhD student in astropysics in The Chinese University of Hong Kong (CUHK). I am interested in radio astronomy, star formation as well as ISM. 
 
 <!-- You can find my CV here.
 
