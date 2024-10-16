@@ -2,7 +2,7 @@
 title: "Distribution and Properties of Molecular Gas toward the Monoceros OB1 Region"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+
 date: 2024-02-17
 venue: 'The Astrophysical Journal, Volume 966,202'
 paperurl: 'https://iopscience.iop.org/article/10.3847/1538-4357/ad3552'
